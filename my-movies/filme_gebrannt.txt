@@ -1,0 +1,2 @@
+Titel	Brenndatum	Anzahl CD's	Genre	Erscheinugsdatum	Grösse in MB
+Motocross Belinzago 2003	8.7.2004	2	Sport	1.3.2004	1565
